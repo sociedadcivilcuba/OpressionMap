@@ -8,7 +8,7 @@ Aquí se establecen los términos en los que el OCDH usa y protege la informaci�
 Si bien los aspectos generales del compromiso con la seguridad y privacidad se mantienen constantes, algunos detalles de esta Política de Privacidad podrían actualizarse, por lo que recomendamos revisar con cierta frecuencia esta página, para asegurar su conformidad con dichos cambios.
 
 ### Acerca de MAPA DE LA OPRESIÓN
-Esta aplicación está basada en ODK Collect (https://github.com/getodk/collect), una aplicación de Android para completar formularios; es una ligera variación que preconfigura el acceso al servidor y se concentra en un único formulario, lo que facilita su uso, ya que simplemente se carga el formulario, se rellena, y se envía. 
+Esta aplicación está basada en [ODK-Collect](https://github.com/getodk/collect), una aplicación de Android para completar formularios; es una ligera variación que preconfigura el acceso al servidor y se concentra en un único formulario, lo que facilita su uso, ya que simplemente se carga el formulario, se rellena, y se envía. 
 
 Es decir, MAPA DE LA OPRESIÓN muestra un formulario en específico con el que nuestros miembros y colaboradores en Cuba pueden recolectar o confirmar datos acerca de los diversos centros de reclusión, correccionales y prisiones en la isla. De esta manera, se podrá localizar geográficamente y visualizarse un panorama represivo del cual el sistema carcelario es parte fundamental (por ejemplo, antes de 1959, para una población de algo más de cinco millones de habitantes, había en Cuba unas 15 prisiones, mientras que actualmente existen más de 200 centros de reclusión, para unos 11 millones de habitantes). 
 

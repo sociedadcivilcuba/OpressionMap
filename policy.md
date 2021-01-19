@@ -9,15 +9,15 @@ Si bien los aspectos generales del compromiso con la seguridad y privacidad se m
 
 
 ### ACERCA DE MAPA DE LA OPRESIÓN
-Esta aplicación está basada en [ODK-Collect](https://github.com/getodk/collect), una aplicación de Android para completar formularios; es una ligera variación que preconfigura el acceso al servidor y se concentra en un único formulario, lo que facilita su uso, ya que simplemente se carga el formulario, se rellena, y se envía. 
+MAPA DE LA OPRESIÓN se basa en [ODK-Collect](https://github.com/getodk/collect), una aplicación de Android para completar formularios; es una ligera variación de esta que preconfigura el acceso al servidor y se concentra en un único formulario, lo que facilita su uso, ya que simplemente se carga el formulario, se rellena, y se envía. 
 
 Es decir, MAPA DE LA OPRESIÓN muestra un formulario en específico con el que nuestros miembros y colaboradores en Cuba pueden recolectar o confirmar datos acerca de los diversos centros de reclusión, correccionales y prisiones en la isla. De esta manera, se podrá localizar geográficamente y visualizarse un panorama represivo del cual el sistema carcelario es parte fundamental (por ejemplo, antes de 1959, para una población de algo más de cinco millones de habitantes, había en Cuba unas 15 prisiones, mientras que actualmente existen más de 200 centros de reclusión, para unos 11 millones de habitantes). 
 
 
-### QUÉ DATOS DEL USUARIO RECOGE "MAPA DE LA OPRESIÓN"
-Esta aplicación en concreto no recoge ningún dato personal. 
+### QUÉ DATOS DEL USUARIO SE RECOGEN
+Esta aplicación en concreto no recoge ningún dato personal del usuario. 
 
-Ningún dato de los que se recoge tiene una relación directa con el usuario, y ninguno (por ejemplo, la geolocalización) es suficiente para identificar a una persona en particular. 
+Ningún dato de los que se comparten con MAPA DE LA OPRESIÓN tiene una relación directa con el usuario, y ninguno (por ejemplo, la geolocalización) es suficiente para identificar a una persona en particular. 
 
 Si se diera el caso de que en las imágenes enviadas apareciese algún metadato, este se eliminará antes de publicar las mismas.
 

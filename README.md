@@ -9,4 +9,6 @@ El OCDH comparte este formulario con el propósito fundamental de obtener, de ma
 
 ## POLÍTICA DE PRIVACIDAD
 
-Acceda a la **[Política de Privacidad](https://sociedadcivilcuba.github.io/opressionmap/policy)**.
+Acceda a la **[Política de Privacidad](https://sociedadcivilcuba.github.io/opressionmap/policy)** de esta aplicación.
+[Política de Privacidad](https://sociedadcivilcuba.github.io/opressionmap/policy)...
+[**Política de Privacidad**](https://sociedadcivilcuba.github.io/opressionmap/policy)...
